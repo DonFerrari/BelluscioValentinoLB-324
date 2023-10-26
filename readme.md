@@ -29,6 +29,11 @@ Hier erstelle ich eine Web App
 
 ![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/3cd0dab1-bb90-4cfe-b366-c7a573288b55)
 
+![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/c952eb17-8b3e-4b0c-9e34-a9ac85bf7a90)
+
+![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/2f87587b-0fe1-4062-8453-4cd3a2466ab4)
+
+
 ![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/04d53cee-b772-4f98-9e36-58674b3e0304)
 ![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/a695b1e7-e7a4-48e5-9ffe-837eb15b459f)
 
