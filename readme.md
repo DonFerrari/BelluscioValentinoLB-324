@@ -22,7 +22,11 @@ So kann ich die Überprüfungen manuell ausführen:
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen:
 
+Zuerst geht man auf Konfiguration:
+
 ![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/0b957b98-5e44-46a5-85f7-7cd2dfa3e60b)
+
+
 
 ![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/3b7f38b8-4c47-4260-8ff0-3d0fbe86ac13)
 
