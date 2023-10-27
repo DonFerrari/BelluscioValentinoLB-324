@@ -28,7 +28,8 @@ Zuerst geht man auf Konfiguration:
 
 Hier macht man jetzt:
 
-
+Name: PASSWORD
+Wert: DonFerrari
 
 ![image](https://github.com/DonFerrari/BelluscioValentinoLB-324/assets/89085663/3b7f38b8-4c47-4260-8ff0-3d0fbe86ac13)
 
